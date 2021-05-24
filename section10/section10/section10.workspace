@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section10" Database="" Version="10000">
+  <Project Name="CharachterFunction" Path="CharachterFunction/CharachterFunction.project" Active="No"/>
+  <Project Name="CStyleString" Path="CStyleString/CStyleString.project" Active="No"/>
+  <Project Name="C++String" Path="C++String/C++String.project" Active="No"/>
+  <Project Name="sectionChallengeAttempt2" Path="sectionChallengeAttempt2/sectionChallengeAttempt2.project" Active="No"/>
+  <Project Name="Assignment" Path="Assignment/Assignment.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="CharachterFunction" ConfigName="Debug"/>
+      <Project Name="CStyleString" ConfigName="Debug"/>
+      <Project Name="C++String" ConfigName="Debug"/>
+      <Project Name="sectionChallengeAttempt2" ConfigName="Debug"/>
+      <Project Name="Assignment" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="CharachterFunction" ConfigName="Release"/>
+      <Project Name="CStyleString" ConfigName="Release"/>
+      <Project Name="C++String" ConfigName="Release"/>
+      <Project Name="sectionChallengeAttempt2" ConfigName="Release"/>
+      <Project Name="Assignment" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
