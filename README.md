@@ -8,6 +8,11 @@
  
  
  
+ the files to all the projects that I coded during the course are also available on google drive ( link below ):
+ 
+ https://drive.google.com/drive/folders/1gvfiZAJMBQ_sMu7mcDsw0dI3F-ECcHkD?usp=sharing
+ 
+ 
  
 these notes are by no means made by a professional, and they are for sure not complete. Do not try to solly learn CPP by using my noted because that is imposible. I took these notes to always have a refference if I ever needed one, and then decided to share these with the community. Some great free courses online that you can start with have been listed in this website -> https://www.onlinecoursereport.com/free/cplusplus/
  
